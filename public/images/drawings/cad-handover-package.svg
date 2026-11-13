@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+  <rect width="1600" height="1000" fill="#F3F0E9"/>
+  <rect x="44" y="44" width="1512" height="912" fill="none" stroke="#17191B" stroke-width="2.2"/>
+
+  <!-- Master Handover Drawing Register & Sheet Matrix -->
+  <rect x="90" y="100" width="680" height="440" fill="#17191B"/>
+  <text x="130" y="160" fill="#A58B62" font-family="monospace" font-size="12" letter-spacing="2">FINAL DELIVERY PACKAGE · SHEET A-500</text>
+  <text x="130" y="210" fill="#F3F0E9" font-family="serif" font-size="34" letter-spacing="2">ISSUED FOR CONSTRUCTION &amp; HANDOVER</text>
+  <g font-family="monospace" font-size="12" fill="#A9A9A3">
+    <text x="130" y="270">✓ A-100  SITE &amp; BOUNDARY SETTING OUT PLAN (.DWG / .PDF)</text>
+    <text x="130" y="310">✓ A-101  GROUND &amp; UPPER LEVEL GENERAL ARRANGEMENT</text>
+    <text x="130" y="350">✓ A-201  EXTERIOR ORTHOGRAPHIC ELEVATIONS (N/S/E/W)</text>
+    <text x="130" y="390">✓ A-301  STRUCTURAL &amp; ARCHITECTURAL SECTIONS</text>
+    <text x="130" y="430">✓ A-401  BESPOKE JOINERY, KITCHEN &amp; WET-ROOM DETAILS</text>
+    <text x="130" y="470" fill="#A58B62">✓ V-501  UNCOMPRESSED 4K/8K PHOTOREALISTIC RENDERS</text>
+  </g>
+
+  <!-- Right Side Isometric Technical Projection -->
+  <g transform="translate(830, 100)" stroke="#17191B" stroke-width="2" fill="#E6E1D6">
+    <rect x="0" y="0" width="680" height="440" fill="#ECE8DF"/>
+    <polygon points="340,80 560,180 340,280 120,180" fill="#F3F0E9"/>
+    <polygon points="120,180 340,280 340,380 120,280" fill="#DCD6C8"/>
+    <polygon points="340,280 560,180 560,280 340,380" fill="#A58B62"/>
+  </g>
+
+  <!-- Bottom Transmittal Stamp -->
+  <rect x="90" y="590" width="1420" height="300" fill="#FAF8F4" stroke="#17191B" stroke-width="1.5"/>
+  <text x="130" y="655" fill="#17191B" font-family="serif" font-size="28" letter-spacing="2">KOLS ARCHITECTS · DIGITAL HANDOVER TRANSMITTAL</text>
+  <text x="130" y="705" fill="#88704B" font-family="monospace" font-size="13" letter-spacing="2">FORMATS DELIVERED: NATIVE AUTOCAD (.DWG) · VECTOR ISO A1/A3 (.PDF) · 4K/8K RENDERS (.PNG/.TIFF)</text>
+  <text x="130" y="755" fill="#17191B" font-family="monospace" font-size="12">QUALITY ASSURANCE STATUS: APPROVED &amp; VERIFIED FOR CLIENT RELEASE</text>
+</svg>

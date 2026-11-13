@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+  <defs>
+    <pattern id="lightgrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E2DDD3" stroke-width="0.7"/>
+    </pattern>
+  </defs>
+
+  <!-- Ivory Architectural Elevation Sheet -->
+  <rect width="1600" height="1000" fill="#F3F0E9"/>
+  <rect x="40" y="40" width="1520" height="920" fill="url(#lightgrid)" stroke="#17191B" stroke-width="1.8"/>
+  <rect x="52" y="52" width="1496" height="896" fill="none" stroke="#A58B62" stroke-width="0.9"/>
+
+  <!-- Datum Level Lines -->
+  <g stroke="#A58B62" stroke-width="0.9" stroke-dasharray="8,5" font-family="monospace" font-size="11" fill="#17191B">
+    <line x1="110" y1="220" x2="1450" y2="220"/>
+    <text x="120" y="212">RL +7.200 PARAPET COPING</text>
+    <line x1="110" y1="440" x2="1450" y2="440"/>
+    <text x="120" y="432">RL +3.600 LEVEL 01 SLAB SOFFIT</text>
+    <line x1="110" y1="680" x2="1450" y2="680"/>
+    <text x="120" y="672">RL +0.000 GROUND DATUM FFL</text>
+  </g>
+
+  <!-- Ground Section Cut Line -->
+  <line x1="90" y1="680" x2="1480" y2="680" stroke="#17191B" stroke-width="4"/>
+
+  <!-- Architectural Elevation Building Volumes -->
+  <g stroke="#17191B" stroke-width="2.2" fill="#FAF8F4">
+    <!-- Upper Cantilevered Volume -->
+    <rect x="260" y="220" width="960" height="220" fill="#EFECE4"/>
+    <!-- Deep Overhang Shadow Line -->
+    <rect x="260" y="220" width="960" height="24" fill="#17191B"/>
+    <!-- Lower Ground Volume -->
+    <rect x="340" y="440" width="760" height="240" fill="#F7F5F0"/>
+    <!-- Travertine Feature Pier -->
+    <rect x="220" y="380" width="120" height="300" fill="#E5DFD3" stroke="#17191B" stroke-width="2.5"/>
+    <!-- Right Cantilever Portal -->
+    <rect x="1100" y="440" width="38" height="240" fill="#17191B"/>
+  </g>
+
+  <!-- Fenestration & Mullion Louvers -->
+  <g stroke="#17191B" stroke-width="1.2">
+    <!-- Upper Curtain Glazing -->
+    <rect x="420" y="255" width="680" height="170" fill="#E8E4DA"/>
+    <line x1="530" y1="255" x2="530" y2="425"/>
+    <line x1="640" y1="255" x2="640" y2="425"/>
+    <line x1="750" y1="255" x2="750" y2="425"/>
+    <line x1="860" y1="255" x2="860" y2="425"/>
+    <line x1="970" y1="255" x2="970" y2="425"/>
+
+    <!-- Bronze Vertical Architectural Louvers -->
+    <g stroke="#A58B62" stroke-width="2">
+      <line x1="435" y1="255" x2="435" y2="425"/>
+      <line x1="450" y1="255" x2="450" y2="425"/>
+      <line x1="465" y1="255" x2="465" y2="425"/>
+      <line x1="480" y1="255" x2="480" y2="425"/>
+      <line x1="495" y1="255" x2="495" y2="425"/>
+      <line x1="510" y1="255" x2="510" y2="425"/>
+    </g>
+
+    <!-- Ground Floor Full-Height Sliders -->
+    <rect x="400" y="460" width="640" height="220" fill="#EAE6DC"/>
+    <line x1="560" y1="460" x2="560" y2="680"/>
+    <line x1="720" y1="460" x2="720" y2="680"/>
+    <line x1="880" y1="460" x2="880" y2="680"/>
+  </g>
+
+  <!-- Glazing Reflection Lines -->
+  <g stroke="#A58B62" stroke-width="0.9" opacity="0.7">
+    <line x1="580" y1="500" x2="620" y2="465"/>
+    <line x1="595" y1="510" x2="645" y2="465"/>
+    <line x1="760" y1="520" x2="810" y2="470"/>
+    <line x1="780" y1="290" x2="830" y2="260"/>
+  </g>
+
+  <!-- Bottom Technical Title Strip -->
+  <g transform="translate(80, 760)">
+    <rect x="0" y="0" width="1440" height="150" fill="#17191B"/>
+    <line x1="420" y1="0" x2="420" y2="150" stroke="#A58B62" stroke-width="1"/>
+    <line x1="920" y1="0" x2="920" y2="150" stroke="#A58B62" stroke-width="1"/>
+    <line x1="1220" y1="0" x2="1220" y2="150" stroke="#A58B62" stroke-width="1"/>
+
+    <text x="36" y="52" fill="#F3F0E9" font-family="serif" font-size="26" letter-spacing="4">KOLS ARCHITECTS</text>
+    <text x="36" y="84" fill="#A58B62" font-family="monospace" font-size="11" letter-spacing="3">ARCHITECTURAL ELEVATIONS &amp; SECTIONS</text>
+    <text x="36" y="114" fill="#A9A9A3" font-family="monospace" font-size="10">PRECISION CAD &amp; TECHNICAL DOCUMENTATION</text>
+
+    <text x="456" y="45" fill="#A58B62" font-family="monospace" font-size="10" letter-spacing="2">SOUTH-WEST FACADE ELEVATION</text>
+    <text x="456" y="76" fill="#F3F0E9" font-family="sans-serif" font-size="16" font-weight="600">CANTILEVERED LIMESTONE &amp; BRONZE LOUVER SYSTEM</text>
+    <text x="456" y="108" fill="#A9A9A3" font-family="monospace" font-size="11">CLADDING: HONED TRAVERTINE · ANODIZED BRONZE MULLIONS · LOW-E GLAZING</text>
+
+    <text x="956" y="45" fill="#A58B62" font-family="monospace" font-size="10" letter-spacing="2">TECHNICAL SPECIFICATION</text>
+    <text x="956" y="76" fill="#F3F0E9" font-family="monospace" font-size="11">SCALE: 1:50 @ ISO A1</text>
+    <text x="956" y="102" fill="#F3F0E9" font-family="monospace" font-size="11">FORMAT: DWG / RVT / PDF</text>
+
+    <text x="1260" y="50" fill="#A58B62" font-family="monospace" font-size="10" letter-spacing="2">DRAWING NO.</text>
+    <text x="1260" y="105" fill="#F3F0E9" font-family="serif" font-size="42" letter-spacing="3">A-204</text>
+  </g>
+</svg>

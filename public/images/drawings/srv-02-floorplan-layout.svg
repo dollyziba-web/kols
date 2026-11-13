@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+  <defs>
+    <pattern id="fpGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#22262A" stroke-width="0.7"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="1000" fill="#17191B"/>
+  <rect x="44" y="44" width="1512" height="912" fill="url(#fpGrid)" stroke="#A58B62" stroke-width="1.5"/>
+
+  <!-- Courtyard Villa 2D Floor Plan Geometry -->
+  <g stroke="#F3F0E9" stroke-width="3" fill="#1F2225">
+    <!-- West Wing -->
+    <rect x="140" y="160" width="380" height="680"/>
+    <!-- North Wing -->
+    <rect x="520" y="160" width="620" height="280"/>
+    <!-- East Wing -->
+    <rect x="840" y="440" width="300" height="400"/>
+  </g>
+
+  <!-- Central Courtyard Reflection Pool -->
+  <rect x="550" y="470" width="260" height="340" fill="#152228" stroke="#A58B62" stroke-width="1.5" stroke-dasharray="8,4"/>
+  <text x="680" y="640" fill="#A58B62" font-family="monospace" font-size="12" text-anchor="middle" letter-spacing="2">CENTRAL ATRIUM COURT</text>
+  <text x="680" y="660" fill="#A9A9A3" font-family="monospace" font-size="10" text-anchor="middle">8,200 MM × 10,400 MM</text>
+
+  <!-- Room Partitions & Doors -->
+  <g stroke="#F3F0E9" stroke-width="1.8">
+    <line x1="140" y1="420" x2="520" y2="420"/>
+    <line x1="140" y1="640" x2="520" y2="640"/>
+    <line x1="780" y1="160" x2="780" y2="440"/>
+    <line x1="840" y1="640" x2="1140" y2="640"/>
+  </g>
+
+  <!-- Room Labels -->
+  <g fill="#F3F0E9" font-family="monospace" font-size="12" letter-spacing="1.5">
+    <text x="180" y="260">ZONE A / FORMAL SALON</text>
+    <text x="180" y="282" fill="#A58B62" font-size="10">64.0 SQ.M</text>
+
+    <text x="180" y="510">ZONE B / DINING PAVILION</text>
+    <text x="180" y="532" fill="#A58B62" font-size="10">48.5 SQ.M</text>
+
+    <text x="180" y="730">ZONE C / CULINARY SUITE</text>
+    <text x="180" y="752" fill="#A58B62" font-size="10">42.0 SQ.M</text>
+
+    <text x="560" y="280">ZONE D / GALLERY CORRIDOR</text>
+    <text x="820" y="280">ZONE E / MASTER BEDROOM</text>
+    <text x="880" y="540">ZONE F / EN-SUITE SPA</text>
+    <text x="880" y="740">ZONE G / PRIVATE STUDY</text>
+  </g>
+
+  <!-- Right Side Specification Legend -->
+  <g transform="translate(1210, 120)">
+    <rect x="0" y="0" width="300" height="760" fill="#121416" stroke="#A58B62" stroke-width="1.2"/>
+    <text x="28" y="55" fill="#F3F0E9" font-family="serif" font-size="24" letter-spacing="3">2D FLOOR PLAN</text>
+    <text x="28" y="82" fill="#A58B62" font-family="monospace" font-size="11" letter-spacing="3">SPATIAL DESIGN STUDY</text>
+    <line x1="28" y1="110" x2="272" y2="110" stroke="#A58B62" stroke-width="0.8"/>
+    <text x="28" y="150" fill="#A9A9A3" font-family="monospace" font-size="10">· ERGONOMIC ZONING</text>
+    <text x="28" y="180" fill="#A9A9A3" font-family="monospace" font-size="10">· DAYLIGHT ORIENTATION</text>
+    <text x="28" y="210" fill="#A9A9A3" font-family="monospace" font-size="10">· FURNITURE CLEARANCES</text>
+    <text x="28" y="240" fill="#A9A9A3" font-family="monospace" font-size="10">· STRUCTURAL GRID ALIGNMENT</text>
+    <text x="28" y="700" fill="#F3F0E9" font-family="serif" font-size="34" letter-spacing="3">FP-202</text>
+  </g>
+</svg>

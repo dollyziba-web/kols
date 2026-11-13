@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+  <rect width="1600" height="1000" fill="#17191B"/>
+  <rect x="44" y="44" width="1512" height="912" fill="none" stroke="#A58B62" stroke-width="1.5"/>
+
+  <!-- Section Cut Through Double-Height Atrium & Cantilever -->
+  <line x1="90" y1="740" x2="1510" y2="740" stroke="#F3F0E9" stroke-width="4"/>
+  <!-- Foundation Footings -->
+  <rect x="200" y="740" width="80" height="70" fill="#25282B" stroke="#A58B62" stroke-width="1.5"/>
+  <rect x="740" y="740" width="80" height="70" fill="#25282B" stroke="#A58B62" stroke-width="1.5"/>
+  <rect x="1220" y="740" width="80" height="70" fill="#25282B" stroke="#A58B62" stroke-width="1.5"/>
+
+  <!-- Structural Frame Section -->
+  <g stroke="#F3F0E9" stroke-width="2.5" fill="#1F2226">
+    <!-- Roof Slab -->
+    <rect x="160" y="220" width="1240" height="28" fill="#A58B62"/>
+    <!-- First Floor Mezzanine Slab -->
+    <rect x="740" y="470" width="600" height="24" fill="#F3F0E9"/>
+    <!-- Vertical Structural Walls -->
+    <rect x="220" y="248" width="36" height="492"/>
+    <rect x="760" y="248" width="28" height="492"/>
+    <rect x="1240" y="248" width="36" height="492"/>
+  </g>
+
+  <!-- Double-Height Glazing Mullions & Solar Ray Angles -->
+  <g stroke="#A58B62" stroke-width="1.2" stroke-dasharray="8,5">
+    <line x1="1450" y1="110" x2="920" y2="470"/>
+    <line x1="1450" y1="170" x2="520" y2="740"/>
+  </g>
+
+  <g font-family="monospace" font-size="12" fill="#F3F0E9" letter-spacing="2">
+    <text x="290" y="340">DOUBLE-HEIGHT ATRIUM VOID (H: 6,800 MM)</text>
+    <text x="290" y="365" fill="#A58B62" font-size="10">ACOUSTIC COFFERED SOFFIT &amp; SOLAR CONTROL</text>
+    <text x="830" y="340">UPPER PRINCIPAL SUITE</text>
+    <text x="830" y="610">LOWER CULINARY &amp; GALLERY LEVEL</text>
+    <text x="100" y="880" font-family="serif" font-size="28" fill="#F3F0E9">SECTION B–B · STRUCTURAL &amp; ENVELOPE COORDINATION (SHEET A-301)</text>
+  </g>
+</svg>

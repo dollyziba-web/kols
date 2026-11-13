@@ -1,0 +1,896 @@
+{
+  "services": [
+    {
+      "id": "srv-01",
+      "slug": "architectural-drawing",
+      "number": "01",
+      "title": "Architectural Drawing",
+      "categoryGroup": "Architecture & Technical Documentation",
+      "shortDescription": "Comprehensive orthographical drawing packages including floor plans, elevations, structural sections, and construction details.",
+      "introduction": "Precision architectural drawings form the technical backbone of every successful building project. We produce rigorous, clearly annotated drawing sheets that translate spatial intent into unambiguous technical instructions.",
+      "detailedExplanation": "At KOLS ARCHITECTS, our Architectural Drawing service delivers coordinated orthographic projections tailored for planning review, contractor pricing, and site execution. Every sheet is structured with standardized lineweights, structural grid axes, datum levels, window and door schedules, and material callouts so architects, engineers, and builders can work from a unified source of truth.",
+      "heroImage": "/images/drawings/srv-01-orthographic-sheet.svg",
+      "galleryImages": [
+        {
+          "url": "/images/drawings/srv-01-orthographic-sheet.svg",
+          "alt": "Orthographic Architectural Drawing Package Sheet A-100",
+          "caption": "Coordinated orthographic elevation, section cut, and wall assembly detail sheet."
+        }
+      ],
+      "inclusions": [
+        "Site plan and boundary orientation layout",
+        "Dimensioned floor plans for all building levels",
+        "Four-directional exterior architectural elevations",
+        "Longitudinal and cross-sectional building cuts",
+        "Roof plan, drainage slopes, and parapet detailing",
+        "Door, window, and finish schedules"
+      ],
+      "deliverables": [
+        "Scaled multi-sheet PDF drawing set (ISO A1 / A3)",
+        "Editable native CAD files (.DWG) upon request",
+        "Dimensioned elevation and section sheets",
+        "Drawing register and revision schedule"
+      ],
+      "faqs": [
+        {
+          "question": "What information do you need to begin architectural drawings?",
+          "answer": "We can start from a land survey, hand sketch, existing PDF/image plans, or a written spatial brief outlining your required rooms, plot dimensions, and architectural style."
+        },
+        {
+          "question": "What scales and measurement systems do you support?",
+          "answer": "We work fluently in both Metric (millimeters/meters) and Imperial (feet and inches) standards at standard architectural scales (1:100, 1:50, 1:20)."
+        }
+      ],
+      "published": true,
+      "displayOrder": 1
+    },
+    {
+      "id": "srv-02",
+      "slug": "2d-floor-plan-design",
+      "number": "02",
+      "title": "2D Floor Plan Design",
+      "categoryGroup": "Architecture & Technical Documentation",
+      "shortDescription": "Intelligent top-down spatial layouts optimizing room proportions, natural daylight, circulation flow, and furniture placement.",
+      "introduction": "A great building begins with an intelligent floor plan. Our 2D Floor Plan Design service resolves spatial relationships, privacy zoning, and circulation efficiency before costly vertical modeling or construction begins.",
+      "detailedExplanation": "We analyze how occupants move through a property from arrival to private quarters. Each 2D floor plan is crafted to maximize usable net area, align structural spans, position fenestration for natural cross-ventilation and daylight, and verify that every room accommodates scaled furniture and ergonomic clearances.",
+      "heroImage": "/images/drawings/srv-02-floorplan-layout.svg",
+      "galleryImages": [
+        {
+          "url": "/images/drawings/srv-02-floorplan-layout.svg",
+          "alt": "2D Architectural Floor Plan with Furniture Layout and Dimensions Sheet FP-201",
+          "caption": "General arrangement 2D layout showing room zoning, furniture blocks, and span dimensions."
+        }
+      ],
+      "inclusions": [
+        "Spatial zoning (public, semi-private, private, and service cores)",
+        "Scaled room-by-room furniture and fixture arrangement",
+        "Door swings, window placements, and circulation pathways",
+        "Internal wall thicknesses and structural grid alignment",
+        "Room area schedule in square meters or square feet"
+      ],
+      "deliverables": [
+        "High-resolution presentation 2D floor plans (PDF & PNG)",
+        "Fully dimensioned technical 2D floor plans",
+        "Area calculation schedule by room and level",
+        "Source AutoCAD .DWG file"
+      ],
+      "faqs": [
+        {
+          "question": "Can you redesign or optimize an existing floor plan?",
+          "answer": "Yes. We frequently audit existing layouts to eliminate wasted corridor space, improve natural lighting, or reconfigure rooms for modern living and commercial workflows."
+        },
+        {
+          "question": "Do your 2D floor plans include furniture layouts?",
+          "answer": "Yes, every 2D floor plan includes accurately scaled furniture and sanitary fixtures so you can immediately understand true room proportions."
+        }
+      ],
+      "published": true,
+      "displayOrder": 2
+    },
+    {
+      "id": "srv-03",
+      "slug": "3d-architectural-visualization",
+      "number": "03",
+      "title": "3D Architectural Visualization",
+      "categoryGroup": "3D Architectural Visualization",
+      "shortDescription": "Photorealistic exterior and interior 3D renderings capturing authentic materials, atmospheric lighting, and architectural context.",
+      "introduction": "Communicate unbuilt architecture with absolute visual conviction. Our 3D Architectural Visualization studio crafts cinema-grade still renders and perspectives that bring architectural concepts to life.",
+      "detailedExplanation": "Using physically based rendering workflows, accurate solar positioning, bespoke surface shaders, and curated botanical and contextual assets, we transform 2D CAD drawings or 3D massing models into emotive, photorealistic imagery. Ideal for design validation, developer marketing, planning presentations, and client sign-off.",
+      "heroImage": "/images/services/srv-03-exterior-vis.jpg",
+      "galleryImages": [
+        {
+          "url": "/images/services/srv-03-exterior-vis.jpg",
+          "alt": "Photorealistic 3D Exterior Architectural Visualization at Golden Hour",
+          "caption": "Architectural exterior visualization showcasing travertine volumes, bronze louvers, and natural light."
+        }
+      ],
+      "inclusions": [
+        "3D architectural modeling from 2D CAD plans or sketches",
+        "Physically accurate material and texture development",
+        "Daylight, golden hour, and dusk atmospheric lighting setups",
+        "Contextual landscaping, hardscaping, and surrounding environment",
+        "High-dynamic-range post-production and color grading"
+      ],
+      "deliverables": [
+        "Ultra-high-resolution 4K / 8K still renderings (.PNG / .TIFF)",
+        "Multiple curated camera angles (eye-level, aerial, architectural vignette)",
+        "Lighting study variations (daylight and dusk)"
+      ],
+      "faqs": [
+        {
+          "question": "Can you create 3D visualizations from 2D AutoCAD drawings or hand sketches?",
+          "answer": "Absolutely. We build the complete 3D geometry directly from your 2D plans, elevations, or sketches and apply your specified material palette."
+        },
+        {
+          "question": "How are material revisions handled during the visualization process?",
+          "answer": "Our workflow includes dedicated clay-render camera approval followed by material preview drafts, allowing you to refine finishes and lighting before final high-resolution rendering."
+        }
+      ],
+      "published": true,
+      "displayOrder": 3
+    },
+    {
+      "id": "srv-04",
+      "slug": "3d-kitchen-design",
+      "number": "04",
+      "title": "3D Kitchen Design",
+      "categoryGroup": "3D Architectural Visualization",
+      "shortDescription": "Bespoke culinary space planning and photorealistic 3D kitchen renders detailing cabinetry, stone islands, appliances, and task lighting.",
+      "introduction": "The kitchen is both a high-performance culinary workspace and the social anchor of the contemporary home. We design and visualize bespoke kitchens with millimeter cabinet precision.",
+      "detailedExplanation": "Our 3D Kitchen Design service combines ergonomic work-triangle planning with tactile material visualization. We detail waterfall stone islands, concealed pantry joinery, integrated appliances, brushed metallic hardware, and layered under-cabinet and pendant lighting so homeowners and joinery fabricators can preview every detail prior to manufacture.",
+      "heroImage": "/images/services/srv-04-bespoke-kitchen.jpg",
+      "galleryImages": [
+        {
+          "url": "/images/services/srv-04-bespoke-kitchen.jpg",
+          "alt": "Bespoke 3D Kitchen Design Render with Fluted Travertine Island and Walnut Cabinetry",
+          "caption": "Bespoke culinary atelier with fluted travertine island, walnut joinery, and integrated bronze lighting."
+        }
+      ],
+      "inclusions": [
+        "Ergonomic kitchen layout and island proportion planning",
+        "Custom cabinetry, drawer, and tall-unit elevation modeling",
+        "Countertop, backsplash, and stone veining visualization",
+        "Integrated appliance and sanitary fixture placement",
+        "Task, cove, and architectural pendant lighting simulation"
+      ],
+      "deliverables": [
+        "Photorealistic 3D kitchen perspective renders",
+        "2D kitchen layout and cabinetry elevation drawings",
+        "Material, finish, and hardware specification schedule"
+      ],
+      "faqs": [
+        {
+          "question": "Can a contractor or cabinetmaker build from your kitchen designs?",
+          "answer": "Yes. Alongside our photorealistic 3D renders, we provide dimensioned plan and elevation layouts that clearly communicate module widths, heights, and appliance clearances."
+        }
+      ],
+      "published": true,
+      "displayOrder": 4
+    },
+    {
+      "id": "srv-05",
+      "slug": "3d-bathroom-design",
+      "number": "05",
+      "title": "3D Bathroom Design",
+      "categoryGroup": "3D Architectural Visualization",
+      "shortDescription": "Refined sanctuary bathroom concepts and 3D visualizations showcasing large-format stone, sanitaryware, custom vanities, and ambient lighting.",
+      "introduction": "Transform utilitarian wet rooms into serene architectural sanctuaries. Our 3D Bathroom Design service visualizes tile set-outs, sanitaryware, custom vanities, and atmospheric moisture-safe lighting.",
+      "detailedExplanation": "Bathroom spaces demand exact coordination between plumbing locations, waterproofing zones, slab falls, and tile joint alignments. We model and render bespoke bathrooms that balance spa-like tranquility with practical maintenance, enabling confident selection of stone slabs, fluted glass screens, freestanding tubs, and brushed bronze or matte black brassware.",
+      "heroImage": "/images/services/srv-05-spa-bathroom.jpg",
+      "galleryImages": [
+        {
+          "url": "/images/services/srv-05-spa-bathroom.jpg",
+          "alt": "Luxury 3D Bathroom Visualization with Stone Vanity and Architectural Lighting",
+          "caption": "Natural stone slab walls, bespoke vanity joinery, and warm indirect illumination."
+        }
+      ],
+      "inclusions": [
+        "Wet and dry zone spatial arrangement",
+        "Custom vanity unit, mirror, and recessed niche detailing",
+        "Large-format porcelain or natural stone slab alignment",
+        "Sanitaryware, walk-in rain shower, and brassware modeling",
+        "Indirect LED cove and vanity lighting visualization"
+      ],
+      "deliverables": [
+        "High-resolution 3D bathroom renders from multiple viewpoints",
+        "Dimensioned wet-room floor plan and fixture layout",
+        "Tile and surface finish specification notes"
+      ],
+      "faqs": [
+        {
+          "question": "Can you design compact en-suite bathrooms as well as large master spas?",
+          "answer": "Yes. Intelligent spatial planning and lighting design are especially transformative in compact en-suites and powder rooms."
+        }
+      ],
+      "published": true,
+      "displayOrder": 5
+    },
+    {
+      "id": "srv-06",
+      "slug": "3d-clinic-design",
+      "number": "06",
+      "title": "3D Clinic Design",
+      "categoryGroup": "3D Architectural Visualization",
+      "shortDescription": "Specialized healthcare and medical interior visualization covering patient reception lounges, consultation suites, and clinical treatment rooms.",
+      "introduction": "Modern healthcare environments must inspire immediate patient trust while supporting clinical hygiene and staff efficiency. Our 3D Clinic Design service elevates medical, dental, aesthetic, and wellness facilities.",
+      "detailedExplanation": "We design and visualize patient-centered clinical interiors that replace sterile institutional tropes with calm, biophilic hospitality—without compromising clinical ergonomics, sterile zoning, or accessibility compliance. From welcoming reception desks and acoustic waiting lounges to specialized consultation and diagnostic rooms, every space is tailored to your medical brand.",
+      "heroImage": "/images/services/srv-06-dental-clinic.jpg",
+      "galleryImages": [
+        {
+          "url": "/images/services/srv-06-dental-clinic.jpg",
+          "alt": "3D Clinical Treatment Suite and Healthcare Interior Visualization",
+          "caption": "Hygienic architectural surfaces, ergonomic clinical layout, and glare-free illumination."
+        }
+      ],
+      "inclusions": [
+        "Patient arrival, reception desk, and waiting lounge design",
+        "Consultation room, treatment bay, and diagnostic suite layouts",
+        "Clinical circulation separating patient and staff workflows",
+        "Hygienic, durable, and calming material palette selection",
+        "Glare-free architectural and clinical task lighting visualization"
+      ],
+      "deliverables": [
+        "Photorealistic 3D renders of reception, waiting, and clinical rooms",
+        "2D clinical space planning and patient flow diagram",
+        "Finish and lighting schedule for healthcare fit-out"
+      ],
+      "faqs": [
+        {
+          "question": "What types of clinics do you design and visualize?",
+          "answer": "We design medical outpatient centers, dental practices, dermatology and aesthetic clinics, ophthalmology suites, physiotherapy studios, and private diagnostic centers."
+        }
+      ],
+      "published": true,
+      "displayOrder": 6
+    },
+    {
+      "id": "srv-07",
+      "slug": "living-room-design",
+      "number": "07",
+      "title": "Living Room Design",
+      "categoryGroup": "Interior Design",
+      "shortDescription": "Sophisticated living lounge spatial planning, bespoke media walls, architectural lighting, and curated furniture compositions.",
+      "introduction": "Design the primary gathering space of your residence with editorial poise. Our Living Room Design service orchestrates proportion, acoustic warmth, focal walls, and bespoke furniture arrangements.",
+      "detailedExplanation": "Whether configuring an intimate formal salon or a double-height open-plan living atrium, we balance architectural millwork, fireplace and media wall detailing, drapery, area rugs, and sculptural seating. Photorealistic 3D renders allow you to experience how natural daylight and evening lighting transform the room's ambiance.",
+      "heroImage": "/images/services/srv-07-living-lounge.jpg",
+      "galleryImages": [
+        {
+          "url": "/images/services/srv-07-living-lounge.jpg",
+          "alt": "Contemporary Architectural Living Room Lounge Visualization",
+          "caption": "Curated seating composition, bespoke architectural millwork, and balanced daylighting."
+        }
+      ],
+      "inclusions": [
+        "Furniture layout optimizing conversation and sightlines",
+        "Custom media wall, shelving, and fireplace joinery design",
+        "Ceiling bulkhead and layered architectural lighting plan",
+        "Textile, stone, timber, and metallic finish curation"
+      ],
+      "deliverables": [
+        "Photorealistic 3D living room visualizations",
+        "Scaled 2D furniture and lighting layout plan",
+        "Custom joinery elevation drawings"
+      ],
+      "faqs": [
+        {
+          "question": "Can you incorporate our existing furniture pieces into the new living room design?",
+          "answer": "Yes. Provide dimensions and photos of your existing pieces, and we will integrate them into the 2D layout and 3D visualization alongside new architectural elements."
+        }
+      ],
+      "published": true,
+      "displayOrder": 7
+    },
+    {
+      "id": "srv-08",
+      "slug": "home-interior-design",
+      "number": "08",
+      "title": "Home Interior Design",
+      "categoryGroup": "Interior Design",
+      "shortDescription": "Holistic residential interior architecture uniting foyers, living zones, kitchens, private bedrooms, and bathrooms into one cohesive language.",
+      "introduction": "A truly refined residence speaks a consistent architectural language from the entrance gallery to the private master suite. Our Home Interior Design service delivers unified whole-house interior concepts.",
+      "detailedExplanation": "We establish a cohesive material, tonal, and architectural detailing vocabulary across your entire residence. By coordinating flooring transitions, door profiles, bespoke wardrobes, ceiling coffers, lighting temperature, and furniture curation simultaneously, we prevent fragmented room-by-room decisions and elevate overall property value.",
+      "heroImage": "/images/services/srv-08-home-interior.jpg",
+      "galleryImages": [
+        {
+          "url": "/images/services/srv-08-home-interior.jpg",
+          "alt": "Holistic Residential Home Interior Design Visualization",
+          "caption": "Harmonious continuity of limestone, warm timber, and architectural lighting across the home."
+        }
+      ],
+      "inclusions": [
+        "Whole-home spatial flow and room-by-room furniture plans",
+        "Cohesive material, color, and texture board across all rooms",
+        "Custom wardrobe, kitchen, vanity, and architectural millwork concepts",
+        "Reflected ceiling and lighting design concepts",
+        "Photorealistic 3D renders for key residential spaces"
+      ],
+      "deliverables": [
+        "Complete residential interior design presentation package",
+        "Room-by-room 3D visualizations",
+        "2D furniture, flooring, and ceiling layouts",
+        "Finish and material specification schedule"
+      ],
+      "faqs": [
+        {
+          "question": "Do you handle both new-build residences and interior renovations?",
+          "answer": "Yes, we provide complete interior design packages for both unbuilt residential architecture and existing homes undergoing luxury refurbishment."
+        }
+      ],
+      "published": true,
+      "displayOrder": 8
+    },
+    {
+      "id": "srv-09",
+      "slug": "private-reception-hall-design",
+      "number": "09",
+      "title": "Private Reception Hall Design",
+      "categoryGroup": "Interior Design",
+      "shortDescription": "Prestigious architectural reception halls, Majlis salons, and private event galleries designed for distinguished hospitality.",
+      "introduction": "Create an unforgettable sense of arrival and formal hospitality. Our Private Reception Hall Design service crafts grand salons, formal entertaining halls, and executive reception spaces.",
+      "detailedExplanation": "Private reception halls require commanding architectural scale balanced with acoustic intimacy and ceremonial circulation. We design sculptural coffered ceilings, custom stone water-jet or inlaid flooring patterns, bronze and fluted-glass screening partitions, bespoke banquet and Majlis seating arrangements, and dramatic chandelier and cove illumination.",
+      "heroImage": "/images/services/srv-09-majlis-reception.jpg",
+      "galleryImages": [
+        {
+          "url": "/images/services/srv-09-majlis-reception.jpg",
+          "alt": "Luxury Private Reception Hall and Majlis Salon Visualization",
+          "caption": "Grand architectural reception hall with custom acoustic wall paneling and warm cove illumination."
+        }
+      ],
+      "inclusions": [
+        "Grand entrance foyer and ceremonial seating arrangement",
+        "Bespoke architectural wall paneling and acoustic treatments",
+        "Sculptural ceiling geometry and feature lighting integration",
+        "Service access, acoustic zoning, and guest restroom coordination"
+      ],
+      "deliverables": [
+        "High-resolution 3D reception hall visualizations",
+        "Dimensioned seating, flooring, and reflected ceiling plans",
+        "Wall elevation and bespoke joinery details"
+      ],
+      "faqs": [
+        {
+          "question": "Can you customize seating capacities for large private gatherings?",
+          "answer": "Yes, we engineer flexible and fixed seating layouts with precise sightlines, acoustic comfort, and discreet catering circulation."
+        }
+      ],
+      "published": true,
+      "displayOrder": 9
+    },
+    {
+      "id": "srv-10",
+      "slug": "dwg-drafting-and-documentation",
+      "number": "10",
+      "title": "DWG Drafting and Documentation",
+      "categoryGroup": "Architecture & Technical Documentation",
+      "shortDescription": "Precision AutoCAD .DWG drafting, PDF-to-CAD conversion, layer standardization, and construction documentation support.",
+      "introduction": "Clean, layer-disciplined CAD files are essential for engineering coordination and construction accuracy. Our DWG Drafting and Documentation service delivers native editable CAD files built to international drafting standards.",
+      "detailedExplanation": "Whether converting legacy paper blueprints, PDF scans, or point-cloud sketches into structured AutoCAD .DWG format, or extending your architecture firm's drafting capacity during peak deadlines, KOLS ARCHITECTS produces clean geometry, standardized AIA/ISO layering, proper external references, and paper-space title block layouts.",
+      "heroImage": "/images/drawings/srv-10-dwg-cad-layers.svg",
+      "galleryImages": [
+        {
+          "url": "/images/drawings/srv-10-dwg-cad-layers.svg",
+          "alt": "AutoCAD DWG Layer Matrix and Technical Documentation Sheet DWG-410",
+          "caption": "ISO 13567 compliant CAD layer matrix, block attributes, and structural callout documentation."
+        }
+      ],
+      "inclusions": [
+        "Native 2D AutoCAD (.DWG) drafting from sketches, PDFs, or markups",
+        "Structured layer naming, block libraries, and plot-style (.CTB) setup",
+        "Structural grid, dimensioning, and annotation standardization",
+        "As-built drawing updates and redline markup incorporation"
+      ],
+      "deliverables": [
+        "Editable native .DWG files (compatible with AutoCAD, Revit, ArchiCAD)",
+        "Plot-ready scaled PDF drawing sheets",
+        "Layer standard and plot style documentation"
+      ],
+      "faqs": [
+        {
+          "question": "Can you adopt our architecture firm's custom CAD layer standards and title block?",
+          "answer": "Yes. Send us your template (.DWT), title block, and CTB plot style, and our drafting team will match your studio standards seamlessly."
+        }
+      ],
+      "published": true,
+      "displayOrder": 10
+    },
+    {
+      "id": "srv-11",
+      "slug": "residential-architecture",
+      "number": "11",
+      "title": "Residential Architecture",
+      "categoryGroup": "Architecture & Technical Documentation",
+      "shortDescription": "Bespoke architectural design for private villas, contemporary residences, duplexes, and multi-unit residential developments.",
+      "introduction": "Architecture shaped around the rhythms of contemporary living. Our Residential Architecture service conceives private residences and housing developments that harmonize climate, site topography, and enduring form.",
+      "detailedExplanation": "From single-family luxury villas to multi-unit residential developments, we guide residential commissions from initial site massing and solar orientation through floor plan optimization, facade composition, and full technical documentation. Every home is designed for spatial generosity, passive thermal comfort, and timeless curb appeal.",
+      "heroImage": "/images/services/srv-11-residential-villa.jpg",
+      "galleryImages": [
+        {
+          "url": "/images/services/srv-11-residential-villa.jpg",
+          "alt": "Contemporary Residential Villa Architecture Design",
+          "caption": "Bespoke residential villa architecture harmonizing natural stone, glazing, and landscape."
+        }
+      ],
+      "inclusions": [
+        "Site analysis, orientation, and volumetric massing studies",
+        "Complete ground, upper, and roof level architectural planning",
+        "Exterior facade design and material palette development",
+        "Indoor-outdoor terrace, pool, and landscape threshold integration",
+        "Coordinated 2D drawings and 3D exterior visualizations"
+      ],
+      "deliverables": [
+        "Complete residential architectural drawing set (PDF & DWG)",
+        "Photorealistic 3D exterior architectural renders",
+        "Area schedules and material specifications"
+      ],
+      "faqs": [
+        {
+          "question": "Do you design homes for international clients remotely?",
+          "answer": "Yes. We collaborate remotely with homeowners and developers worldwide, adapting designs to local climate conditions, plot setbacks, and construction methods."
+        }
+      ],
+      "published": true,
+      "displayOrder": 11
+    },
+    {
+      "id": "srv-12",
+      "slug": "commercial-space-design",
+      "number": "12",
+      "title": "Commercial Space Design",
+      "categoryGroup": "Architecture & Technical Documentation",
+      "shortDescription": "High-impact architectural and interior design for corporate headquarters, boutique retail, hospitality lounges, and mixed-use spaces.",
+      "introduction": "Commercial architecture must embody brand authority while maximizing spatial return on investment. We design workplaces, retail flagships, and hospitality venues that command attention.",
+      "detailedExplanation": "Our Commercial Space Design service aligns spatial planning with operational performance and brand identity. We engineer welcoming arrival atriums, collaborative and private office zones, high-footfall retail displays, and refined hospitality environments—complete with technical documentation and photorealistic 3D visualizations.",
+      "heroImage": "/images/services/srv-12-commercial-flagship.jpg",
+      "galleryImages": [
+        {
+          "url": "/images/services/srv-12-commercial-flagship.jpg",
+          "alt": "Contemporary Commercial Space and Executive Flagship Architecture",
+          "caption": "Architectural commercial flagship and workplace environment designed for brand authority."
+        }
+      ],
+      "inclusions": [
+        "Commercial space zoning, occupancy flow, and workstation planning",
+        "Brand-aligned reception, boardroom, and client lounge design",
+        "Retail merchandising layouts and architectural lighting concepts",
+        "Technical floor plans, elevations, and 3D commercial visualizations"
+      ],
+      "deliverables": [
+        "Commercial 2D layout and technical drawing package",
+        "Photorealistic 3D interior and exterior commercial renders",
+        "Finish, lighting, and fixture schedule"
+      ],
+      "faqs": [
+        {
+          "question": "Can your commercial designs be used for investor and tenant presentations?",
+          "answer": "Yes. Our commercial packages combine precise area efficiency schedules with cinema-grade 3D renders specifically tailored for leasing, investor decks, and fit-out contractors."
+        }
+      ],
+      "published": true,
+      "displayOrder": 12
+    },
+    {
+      "id": "srv-13",
+      "slug": "interior-space-planning",
+      "number": "13",
+      "title": "Interior Space Planning",
+      "categoryGroup": "Interior Design",
+      "shortDescription": "Strategic spatial reconfiguration, circulation analysis, and ergonomic zoning for residential, commercial, and institutional interiors.",
+      "introduction": "Unlock the latent potential of any floor plate. Our Interior Space Planning service resolves complex spatial constraints into fluid, purposeful interior layouts.",
+      "detailedExplanation": "Before selecting finishes or furniture, an interior must function effortlessly. We conduct rigorous spatial feasibility studies—testing multiple layout options, acoustic separation, daylight penetration, storage density, and accessibility clearances—so you can select the optimal spatial configuration with certainty.",
+      "heroImage": "/images/drawings/srv-13-space-planning-grid.svg",
+      "galleryImages": [
+        {
+          "url": "/images/drawings/srv-13-space-planning-grid.svg",
+          "alt": "Interior Space Planning & Circulation Study Sheet SP-313",
+          "caption": "Comparative spatial zoning, ergonomic clearance radii, and occupancy matrix."
+        }
+      ],
+      "inclusions": [
+        "Multi-option spatial layout feasibility studies",
+        "Circulation, privacy, and acoustic zoning diagrams",
+        "Ergonomic clearance and furniture footprint verification",
+        "Storage optimization and built-in joinery allocation"
+      ],
+      "deliverables": [
+        "Comparative 2D space planning options (PDF & DWG)",
+        "Finalized master interior layout with dimensions",
+        "Room-by-room area and capacity schedule"
+      ],
+      "faqs": [
+        {
+          "question": "How many layout options are included in Interior Space Planning?",
+          "answer": "We typically develop two to three distinct spatial layout configurations during the concept phase, then refine your preferred option into the final dimensioned master plan."
+        }
+      ],
+      "published": true,
+      "displayOrder": 13
+    },
+    {
+      "id": "srv-14",
+      "slug": "custom-architectural-design",
+      "number": "14",
+      "title": "Custom Architectural Design",
+      "categoryGroup": "Architecture & Technical Documentation",
+      "shortDescription": "Tailored architectural solutions for unique briefs, bespoke pavilions, specialized renovations, and hybrid visualization commissions.",
+      "introduction": "When a project transcends standard categories, our studio builds a bespoke design and visualization workflow around your exact objectives.",
+      "detailedExplanation": "From sculptural garden pavilions, bespoke facade recladding, and cultural spaces to specialized developer visualization suites, Custom Architectural Design gives you direct access to our multidisciplinary team of architects, CAD specialists, and 3D visualizers.",
+      "heroImage": "/images/services/srv-14-custom-pavilion.jpg",
+      "galleryImages": [
+        {
+          "url": "/images/services/srv-14-custom-pavilion.jpg",
+          "alt": "Custom Architectural Waterfront Pavilion Study",
+          "caption": "Sculptural cantilevered pavilion exploring bespoke geometry and daylight modulation."
+        }
+      ],
+      "inclusions": [
+        "Bespoke architectural concept generation and massing",
+        "Custom facade, pavilion, or structural feature studies",
+        "Integrated 2D CAD documentation and 3D visualization",
+        "Dedicated design reviews tailored to your project milestones"
+      ],
+      "deliverables": [
+        "Custom-scoped 2D drawing and 3D visualization deliverables",
+        "Editable CAD files and presentation boards"
+      ],
+      "faqs": [
+        {
+          "question": "How do we scope a custom architectural project?",
+          "answer": "Use our Get a Quote page to share your brief and reference files, or message us on WhatsApp for a tailored scope and milestone proposal."
+        }
+      ],
+      "published": true,
+      "displayOrder": 14
+    }
+  ],
+  "projects": [
+    {
+      "id": "prj-01",
+      "slug": "the-aurelia-limestone-residence",
+      "title": "The Aurelia Limestone Residence",
+      "category": "Residential Architecture",
+      "shortDescription": "A contemporary cantilevered residence uniting honed travertine monoliths, anodized bronze louvers, and a serene reflecting court.",
+      "overview": "The Aurelia Limestone Residence is an architectural design and visualization study exploring horizontal monumentality and indoor-outdoor fluidity. Organized around a tranquil reflecting pool, the residence balances protective street-side stone volumes with expansive garden-facing frameless glazing.",
+      "designObjective": "Formulate a contemporary two-level residential architecture concept that maximizes natural daylight while mitigating solar heat gain through deep structural overhangs and operable bronze vertical screening.",
+      "designApproach": "We established a 7.5m x 8.5m primary structural grid in 2D CAD, anchoring the ground floor with a double-height living atrium and culinary studio while cantilevering the upper principal suite over the terrace to create a shaded outdoor lounge.",
+      "thumbnail": "/images/portfolio/prj-01-aurelia-villa.jpg",
+      "thumbnailAlt": "The Aurelia Limestone Residence — Exterior 3D Architectural Visualization",
+      "gallery": [
+        {
+          "id": "img-101",
+          "url": "/images/portfolio/prj-01-aurelia-villa.jpg",
+          "alt": "The Aurelia Limestone Residence Primary Exterior Perspective",
+          "caption": "Primary garden and cantilevered limestone terrace perspective.",
+          "order": 1
+        },
+        {
+          "id": "img-102",
+          "url": "/images/portfolio/prj-01-aurelia-courtyard.jpg",
+          "alt": "Aurelia Residence Courtyard & Pavilion View",
+          "caption": "Architectural courtyard threshold and grazing daylight study.",
+          "order": 2
+        }
+      ],
+      "videoUrl": "/videos/architectural-walkthrough-demo",
+      "deliverables": [
+        "Complete 2D Architectural Floor Plans & Elevations (DWG & PDF)",
+        "4K Exterior Dusk & Daylight 3D Visualizations",
+        "Interior Atrium & Culinary Studio 3D Renders",
+        "Structural Grid & Area Schedule Documentation"
+      ],
+      "projectStatus": "Conceptual Design",
+      "featured": true,
+      "published": true,
+      "displayOrder": 1,
+      "scaleSpec": "357.5 SQ.M · SCALE 1:100",
+      "drawingCode": "KOLS-ARC-101",
+      "createdAt": "2026-10-15T10:00:00.000Z",
+      "updatedAt": "2026-11-01T10:00:00.000Z"
+    },
+    {
+      "id": "prj-02",
+      "slug": "monolith-culinary-atelier",
+      "title": "Monolith Culinary Atelier",
+      "category": "Kitchen Design",
+      "shortDescription": "Bespoke 3D kitchen visualization featuring a waterfall bookmatched marble island, smoked oak tall cabinetry, and bronze task lighting.",
+      "overview": "Monolith Culinary Atelier is a detailed 3D kitchen design and joinery study conceived for open-plan luxury residences. The composition anchors the room around a sculptural 4.2-meter stone island while concealing heavy appliances behind flush dark oak pocket doors.",
+      "designObjective": "Demonstrate photorealistic material fidelity and ergonomic joinery planning for a high-specification residential kitchen.",
+      "designApproach": "We modeled every cabinet reveal, shadow gap, and integrated LED channel to 1mm tolerance before calibrating physically based stone shaders and warm 2700K architectural cove illumination.",
+      "thumbnail": "/images/renders/kitchen-3d.png",
+      "thumbnailAlt": "Monolith Culinary Atelier — 3D Kitchen Design Render",
+      "gallery": [
+        {
+          "id": "img-201",
+          "url": "/images/renders/kitchen-3d.png",
+          "alt": "Monolith Culinary Atelier 3D Kitchen Perspective",
+          "caption": "Bookmatched marble waterfall island and smoked oak cabinetry.",
+          "order": 1
+        }
+      ],
+      "deliverables": [
+        "Photorealistic 3D Kitchen Visualizations",
+        "Dimensioned 2D Kitchen Plan & Cabinetry Elevations",
+        "Stone, Timber & Hardware Finish Schedule"
+      ],
+      "projectStatus": "Conceptual Design",
+      "featured": true,
+      "published": true,
+      "displayOrder": 2,
+      "scaleSpec": "68.0 SQ.M · SCALE 1:50",
+      "drawingCode": "KOLS-KIT-204",
+      "createdAt": "2026-10-18T10:00:00.000Z",
+      "updatedAt": "2026-11-02T10:00:00.000Z"
+    },
+    {
+      "id": "prj-03",
+      "slug": "serene-medical-wellness-clinic",
+      "title": "Serene Medical & Aesthetic Clinic",
+      "category": "Healthcare Architecture",
+      "shortDescription": "Biophilic healthcare interior concept combining curved fluted timber reception design, acoustic waiting zones, and clinical precision.",
+      "overview": "Designed to redefine the patient arrival experience, the Serene Medical & Aesthetic Clinic study replaces clinical anxiety with architectural calm. Warm limestone surfaces, curved timber joinery, and framed indoor greenery create a restorative hospitality atmosphere.",
+      "designObjective": "Establish a compliant clinical floor plate that separates sterile practitioner workflows from serene patient reception and consultation suites.",
+      "designApproach": "Using radial circulation planning and indirect cove illumination, we eliminated harsh overhead glare while maintaining medical-grade surface durability and acoustic privacy across six consultation rooms.",
+      "thumbnail": "/images/renders/clinic-3d.png",
+      "thumbnailAlt": "Serene Medical & Aesthetic Clinic — 3D Healthcare Visualization",
+      "gallery": [
+        {
+          "id": "img-301",
+          "url": "/images/renders/clinic-3d.png",
+          "alt": "Clinic Reception and Patient Waiting Lounge 3D Render",
+          "caption": "Curved fluted timber reception desk and biophilic waiting lounge.",
+          "order": 1
+        }
+      ],
+      "deliverables": [
+        "3D Clinic Reception, Lounge & Consultation Room Renders",
+        "2D Healthcare Space Planning & Circulation Layout",
+        "Hygienic Finish & Acoustic Material Specification"
+      ],
+      "projectStatus": "Speculative Demonstration",
+      "featured": true,
+      "published": true,
+      "displayOrder": 3,
+      "scaleSpec": "240.0 SQ.M · SCALE 1:50",
+      "drawingCode": "KOLS-MED-309",
+      "createdAt": "2026-10-20T10:00:00.000Z",
+      "updatedAt": "2026-11-03T10:00:00.000Z"
+    },
+    {
+      "id": "prj-04",
+      "slug": "travertine-sanctuary-bath-suite",
+      "title": "Travertine Sanctuary Bath Suite",
+      "category": "Bathroom Design",
+      "shortDescription": "Spa-inspired 3D bathroom visualization featuring a carved stone vessel tub, bookmatched travertine slabs, and brushed bronze brassware.",
+      "overview": "An intimate study in texture, steam, and grazing natural light, the Travertine Sanctuary Bath Suite explores how disciplined slab alignment and concealed linear drainage create a seamless wet-room environment.",
+      "designObjective": "Visualize a master en-suite sanctuary that harmonizes freestanding sculptural sanitaryware with warm indirect architectural lighting.",
+      "designApproach": "Every stone joint was mapped in 2D elevation prior to 3D texturing, ensuring vanity niches, wall-mounted spouts, and frameless glass partitions align precisely with slab coursing.",
+      "thumbnail": "/images/renders/bathroom-3d.png",
+      "thumbnailAlt": "Travertine Sanctuary Bath Suite — 3D Bathroom Visualization",
+      "gallery": [
+        {
+          "id": "img-401",
+          "url": "/images/renders/bathroom-3d.png",
+          "alt": "Travertine Sanctuary Bath Suite 3D Render",
+          "caption": "Freestanding carved stone tub and brushed bronze fixtures.",
+          "order": 1
+        }
+      ],
+      "deliverables": [
+        "High-Resolution 3D Bathroom Visualizations",
+        "Wet-Room Tile Set-Out & Plumbing Wall Elevations",
+        "Sanitaryware & Brassware Schedule"
+      ],
+      "projectStatus": "Conceptual Design",
+      "featured": true,
+      "published": true,
+      "displayOrder": 4,
+      "scaleSpec": "28.5 SQ.M · SCALE 1:25",
+      "drawingCode": "KOLS-BTH-402",
+      "createdAt": "2026-10-22T10:00:00.000Z",
+      "updatedAt": "2026-11-04T10:00:00.000Z"
+    },
+    {
+      "id": "prj-05",
+      "slug": "solstice-courtyard-living-salon",
+      "title": "Solstice Courtyard Living Salon",
+      "category": "Interior Design",
+      "shortDescription": "Double-height residential interior design uniting sculptural modular seating, raw travertine hearth walls, and courtyard daylight.",
+      "overview": "The Solstice Courtyard Living Salon demonstrates how monumental volume can still feel deeply intimate. Low-slung tactile upholstery, warm bronze lighting pendants, and floor-to-ceiling drapery soften the precision of the architectural shell.",
+      "designObjective": "Create a cohesive residential interior design package balancing formal entertaining with effortless daily comfort.",
+      "designApproach": "We paired a neutral ivory and warm stone architectural envelope with contrasting dark bronze framing and natural linen/bouclé textiles, verified across daylight and evening lighting scenarios.",
+      "thumbnail": "/images/renders/living-room.png",
+      "thumbnailAlt": "Solstice Courtyard Living Salon — Interior Design Visualization",
+      "gallery": [
+        {
+          "id": "img-501",
+          "url": "/images/renders/living-room.png",
+          "alt": "Solstice Living Salon Main Perspective",
+          "caption": "Double-height living room with travertine hearth and garden views.",
+          "order": 1
+        }
+      ],
+      "deliverables": [
+        "3D Interior Living & Courtyard Visualizations",
+        "Scaled 2D Furniture & Lighting Plan",
+        "Bespoke Hearth & Millwork Elevations"
+      ],
+      "projectStatus": "Conceptual Design",
+      "featured": true,
+      "published": true,
+      "displayOrder": 5,
+      "scaleSpec": "112.0 SQ.M · SCALE 1:50",
+      "drawingCode": "KOLS-INT-501",
+      "createdAt": "2026-10-25T10:00:00.000Z",
+      "updatedAt": "2026-11-05T10:00:00.000Z"
+    },
+    {
+      "id": "prj-06",
+      "slug": "the-sovereign-reception-gallery",
+      "title": "The Sovereign Reception Gallery",
+      "category": "3D Visualization",
+      "shortDescription": "Grand private reception hall and architectural gallery featuring coffered linear lighting, limestone flooring, and bronze screens.",
+      "overview": "Conceived for distinguished private hosting and executive gatherings, The Sovereign Reception Gallery explores ceremonial axial symmetry, acoustic wall paneling, and museum-grade indirect lighting.",
+      "designObjective": "Deliver an atmospheric 3D architectural visualization and ceiling geometry study for a large-span private reception hall.",
+      "designApproach": "By articulating the ceiling into deep acoustic coffers lined with concealed warm LED grazers, the space achieves dramatic architectural presence without visual clutter.",
+      "thumbnail": "/images/renders/reception-hall.png",
+      "thumbnailAlt": "The Sovereign Reception Gallery — 3D Visualization",
+      "gallery": [
+        {
+          "id": "img-601",
+          "url": "/images/renders/reception-hall.png",
+          "alt": "Sovereign Reception Gallery Perspective",
+          "caption": "Coffered ceiling illumination and bronze fluted-glass partitions.",
+          "order": 1
+        }
+      ],
+      "deliverables": [
+        "4K 3D Interior Visualizations",
+        "Reflected Ceiling & Lighting Coordination Plan",
+        "Stone Flooring & Partition Detailing"
+      ],
+      "projectStatus": "Speculative Demonstration",
+      "featured": false,
+      "published": true,
+      "displayOrder": 6,
+      "scaleSpec": "195.0 SQ.M · SCALE 1:50",
+      "drawingCode": "KOLS-VIS-608",
+      "createdAt": "2026-10-27T10:00:00.000Z",
+      "updatedAt": "2026-11-06T10:00:00.000Z"
+    },
+    {
+      "id": "prj-07",
+      "slug": "veritas-commercial-atrium",
+      "title": "Veritas Commercial Headquarters Atrium",
+      "category": "Commercial Interiors",
+      "shortDescription": "Contemporary commercial workspace atrium featuring cantilevered timber stairs, sky-lit glazing, and executive gallery circulation.",
+      "overview": "Veritas Commercial Headquarters Atrium is a commercial space design and visualization study demonstrating how central vertical circulation can foster organizational connectivity and natural daylight distribution across multi-floor offices.",
+      "designObjective": "Design a signature commercial arrival atrium that reinforces corporate credibility and supports intuitive visitor wayfinding.",
+      "designApproach": "We combined blackened architectural steel stringers with warm oak treads beneath a modular acoustic skylight grid, creating a dynamic interplay of structure and shadow.",
+      "thumbnail": "/images/renders/commercial-atrium.png",
+      "thumbnailAlt": "Veritas Commercial Headquarters Atrium — 3D Visualization",
+      "gallery": [
+        {
+          "id": "img-701",
+          "url": "/images/renders/commercial-atrium.png",
+          "alt": "Veritas Commercial Atrium Interior View",
+          "caption": "Cantilevered staircase and sky-lit commercial workspace atrium.",
+          "order": 1
+        }
+      ],
+      "deliverables": [
+        "3D Commercial Atrium & Workspace Renders",
+        "2D Commercial Space Planning & Core Layout",
+        "Feature Staircase & Glazing Section Details"
+      ],
+      "projectStatus": "Conceptual Design",
+      "featured": false,
+      "published": true,
+      "displayOrder": 7,
+      "scaleSpec": "480.0 SQ.M · SCALE 1:100",
+      "drawingCode": "KOLS-COM-712",
+      "createdAt": "2026-10-29T10:00:00.000Z",
+      "updatedAt": "2026-11-07T10:00:00.000Z"
+    },
+    {
+      "id": "prj-08",
+      "slug": "iso-cad-documentation-package-a101",
+      "title": "A-101 / A-204 Technical CAD Documentation Package",
+      "category": "2D Architectural Drawings",
+      "shortDescription": "Comprehensive 2D AutoCAD floor plan, structural grid, and orthographic facade elevation documentation package.",
+      "overview": "A benchmark demonstration of KOLS ARCHITECTS' technical drafting discipline. This package showcases ISO-standardized layer management, structural grid coordination, datum elevation callouts, and clear dimensional hierarchies.",
+      "designObjective": "Provide architects, developers, and contractors with a transparent demonstration of our 2D CAD and DWG documentation clarity.",
+      "designApproach": "Drafted to 1:100 and 1:50 ISO A1 sheet standards with disciplined lineweights, hatch patterns, door/window swing symbols, and comprehensive title blocks.",
+      "thumbnail": "/images/drawings/cad-floorplan-sheet.svg",
+      "thumbnailAlt": "A-101 Technical CAD Floor Plan Sheet",
+      "gallery": [
+        {
+          "id": "img-801",
+          "url": "/images/drawings/cad-floorplan-sheet.svg",
+          "alt": "Sheet A-101 General Arrangement Floor Plan",
+          "caption": "Sheet A-101: Ground Floor Plan, Structural Axes & Area Schedule.",
+          "order": 1
+        },
+        {
+          "id": "img-802",
+          "url": "/images/drawings/cad-elevation-sheet.svg",
+          "alt": "Sheet A-204 South-West Facade Elevation",
+          "caption": "Sheet A-204: Orthographic Facade Elevation & Cladding Specification.",
+          "order": 2
+        }
+      ],
+      "deliverables": [
+        "Native AutoCAD .DWG Files (ISO 13567 Layer Standard)",
+        "Plot-Ready Vector PDF Drawing Sheets (A1 / A3)",
+        "Dimensioned Floor Plans, Elevations & Area Schedules"
+      ],
+      "projectStatus": "Speculative Demonstration",
+      "featured": true,
+      "published": true,
+      "displayOrder": 8,
+      "scaleSpec": "ISO A1 · SCALE 1:100 / 1:50",
+      "drawingCode": "KOLS-DWG-801",
+      "createdAt": "2026-11-01T10:00:00.000Z",
+      "updatedAt": "2026-11-08T10:00:00.000Z"
+    }
+  ],
+  "testimonials": [],
+  "enquiries": [],
+  "settings": {
+    "brandName": "KOLS ARCHITECTS",
+    "primaryTagline": "DESIGNING SPACES. VISUALIZING POSSIBILITIES.",
+    "alternativeTaglines": [
+      "Architecture Beyond Imagination.",
+      "Where Design Meets Precision.",
+      "From Concept to Creation.",
+      "Spaces Designed to Inspire."
+    ],
+    "heroHeadline": "WE DESIGN SPACES THAT DEFINE EXPERIENCES.",
+    "heroSubheadline": "From architectural drawings to immersive 3D visualizations, we transform ideas into extraordinary spaces.",
+    "aboutLabel": "ABOUT KOLS ARCHITECTS",
+    "aboutHeadline": "WE TURN ARCHITECTURAL IDEAS INTO VISUAL REALITIES.",
+    "aboutIntro": "KOLS ARCHITECTS is a contemporary architectural design and visualization studio specializing in transforming concepts into functional, aesthetically refined and visually compelling spaces. Working across architectural drawings, 2D floor plan design, photorealistic 3D visualization, DWG documentation and bespoke interior design, we partner with homeowners, developers, architects and healthcare operators worldwide.",
+    "aboutPhilosophy": "We believe architecture achieves its highest value when spatial clarity, material honesty and technical rigor converge. Every line drawn in CAD and every ray of light calibrated in 3D serves a singular purpose: to empower confident decisions before a single stone is laid.",
+    "aboutDesignApproach": "Our studio operates on a structured, collaborative methodology that bridges creative vision with buildable documentation. Whether producing a complete residential architectural package, an ergonomic clinical interior or an ultra-realistic kitchen visualization, we examine proportion, circulation, acoustics, natural illumination and tactile finishes in detail.",
+    "footerStatement": "We create architectural experiences through thoughtful design, technical precision and immersive visualization.",
+    "businessEmailPlaceholder": "Consultations via Official Studio Portal (Email Configurable in Admin)",
+    "whatsappNumberDisplay": "+234 806 740 3009",
+    "whatsappUrl": "https://wa.me/2348067403009",
+    "serviceCoveragePlaceholder": "Remote Architectural Design & Visualization Worldwide · Private Client Briefings via Digital Studio",
+    "socialLinks": {
+      "instagram": "",
+      "linkedin": "",
+      "behance": "",
+      "pinterest": ""
+    },
+    "seo": {
+      "home": {
+        "title": "KOLS ARCHITECTS | Architectural Design, 2D Floor Plans & 3D Visualization Studio",
+        "description": "KOLS ARCHITECTS is a contemporary architectural design and visualization studio specializing in architectural drawings, 2D floor plans, photorealistic 3D rendering, DWG drafting, and luxury interior design."
+      },
+      "about": {
+        "title": "About the Studio | Philosophy & Capabilities — KOLS ARCHITECTS",
+        "description": "Explore the architectural philosophy, technical precision, and multidisciplinary design capabilities of KOLS ARCHITECTS."
+      },
+      "services": {
+        "title": "Architectural & 3D Visualization Services — KOLS ARCHITECTS",
+        "description": "Comprehensive architectural drawing, 2D floor plan design, 3D kitchen and bathroom visualization, 3D clinic design, interior design, and AutoCAD DWG documentation."
+      },
+      "portfolio": {
+        "title": "Architectural Portfolio & Design Archive — KOLS ARCHITECTS",
+        "description": "Explore architectural visualizations, 2D technical drawings, luxury residential concepts, commercial spaces, and clinical interior studies by KOLS ARCHITECTS."
+      },
+      "process": {
+        "title": "Our 5-Stage Architectural Workflow — KOLS ARCHITECTS",
+        "description": "From initial discovery and spatial concept development to 2D technical CAD drafting, 3D visualization, and final DWG/render delivery."
+      },
+      "contact": {
+        "title": "Contact Studio & Schedule a Consultation — KOLS ARCHITECTS",
+        "description": "Connect with KOLS ARCHITECTS via WhatsApp or project enquiry form to discuss residential, commercial, healthcare, or visualization commissions."
+      },
+      "quote": {
+        "title": "Request a Project Quotation — KOLS ARCHITECTS",
+        "description": "Submit your architectural brief, site dimensions, and reference files for a tailored quotation on 2D drawings, 3D visualizations, or interior design."
+      }
+    },
+    "updatedAt": "2026-11-12T19:49:09.876Z"
+  }
+}
